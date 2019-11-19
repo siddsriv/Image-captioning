@@ -2,7 +2,6 @@
 
 ## Overview
 In this project, a CNN-LSTM encoder-decoder model was used to generate captions for images automatically. A complex deep learning model is used comprising of two components: a Convolutional Neural Network (CNN) that transforms an input image into a set of features - encoding the information in an image into a vector (known as embedding, which is a featurized representation of the image), and an RNN that turns those features into descriptive language.
-
 <img src='images/intro.PNG' width=100% height=100%/>
 
 ## File description
